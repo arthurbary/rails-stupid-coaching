@@ -13,3 +13,10 @@
  *= require_tree .
  *= require_self
  */
+
+ form{
+  font-style: helvetica;
+ }
+ h1, h2{
+  font-style: helvetica;
+ }
